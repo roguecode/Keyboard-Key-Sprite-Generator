@@ -30,6 +30,8 @@ namespace KeySpriteGenerator
 
       Lines.Text = File.ReadAllText("Data/Default.txt");
 
+      Directory.CreateDirectory("./Output");
+
       RedrawPreview();
     }
 
