@@ -3,3 +3,6 @@
 ################################################################################
 
 /KeySpriteGenerator/bin/Debug
+/KeySpriteGenerator/obj/Debug
+/KeySpriteGenerator/.vs/KeySpriteGenerator/v14
+/KeySpriteGenerator/KeySpriteGenerator.csproj.user
